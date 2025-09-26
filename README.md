@@ -1,3 +1,6 @@
+This work flow for datascience projects 
+Author:Rahul bhakre
+
 # Data Science Project - Basic Flow (Ant Project)
 
 This README provides a basic flow for setting up and running a data science project, structured in a way that resembles the "ant" build approach (task-based, modular, and repeatable steps).
